@@ -15,7 +15,7 @@ apt-get update
 
 # DL AllStar master
 cd /tmp
-wget --no-check-certificate https://github.com/AllStarLink/DIAL/archive/master.zip
+wget --no-check-certificate https://github.com/rellim78/DIAL/archive/master.zip
 
 # unzip the master
 apt-get install unzip -y
