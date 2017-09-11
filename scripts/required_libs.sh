@@ -37,4 +37,4 @@ apt-get install dnsutils -y
 apt-get install bison -y
 apt-get install curl -y
 
-apt-get install php5-cli -y
+apt-get install php-cli -y
